@@ -1,4 +1,9 @@
-object MapDemo {
+/*
+   作者:sun
+   功能：Map 的使用
+   日期: 2017.3.16
+*/
+object MapDemo1 {
    def main(args: Array[String]) {
       val colors = Map("red" -> "#FF0000",
                        "azure" -> "#F0FFFF",
